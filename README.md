@@ -1,2 +1,2 @@
 # data_scraping
-script that establishes data channels to clothing stores
+working on a python script that establishes data channels to clothing stores using an MITM approach.
